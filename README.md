@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sumonchhetry" target="blank"><img src="https://img.shields.io/twitter/follow/sumonchhetry?logo=twitter&style=for-the-badge" alt="sumonchhetry" /></a> </p>
 
-- 🌱 I’m currently learning **How to google better**
+- 🌱 I’m currently learning **Data Structure and Algorithm**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sumonchhetry](https://github.com/sumonchhetry)
 
