@@ -1,4 +1,5 @@
-<h1 align="center">👋 I'm Sumon</h1>
+<h1 align="center">👋 I'm Sumon Chhetry</h1>
+<h2>A self taught developer</h2>
 <h3 align="center">A create magic with vs code, tea and google</h3>
 
 <p align="left"> <a href="https://twitter.com/sumonchhetry" target="blank"><img src="https://img.shields.io/twitter/follow/sumonchhetry?logo=twitter&style=for-the-badge" alt="sumonchhetry" /></a> </p>
