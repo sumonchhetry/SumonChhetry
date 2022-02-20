@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sumonchhetry](https://github.com/sumonchhetry)
 
-- 💬 Ask me about **javascript, react, python, django**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **sumonchhetry1@gmail.com**
 
