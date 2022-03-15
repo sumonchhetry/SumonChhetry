@@ -1,7 +1,7 @@
 <h1 align="center">👋 I'm Sumon Chhetry</h1>
 <h3 align="center">I create magic with vs code, tea and google</h3>
 
-<p align="left"> <a href="https://twitter.com/sumonchhetry" target="blank"><img src="https://img.shields.io/twitter/follow/sumonchhetry?logo=twitter&style=for-the-badge" alt="sumonchhetry" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sumon_chhetry" target="blank"><img src="https://img.shields.io/twitter/follow/sumonchhetry?logo=twitter&style=for-the-badge" alt="sumon_chhetry" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
