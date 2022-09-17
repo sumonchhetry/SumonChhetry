@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/sumonchhetry" target="blank"><img src="https://img.shields.io/twitter/follow/sumonchhetry?logo=twitter&style=for-the-badge" alt="sumonchhetry" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 👯 I’m looking to collaborate on **data analysis, backend development, open source projects**
 
-- 🤝 I’m looking for help with **Typescript**
+- 🤝 I’m looking for help with **Tableau**
 
 - 💬 Ask me about **Python, Postgresql**
 
 - 📫 How to reach me **sumonchhetry1@gmail.com**
 
-- ⚡ Fun fact **I don't like javascript**
+- ⚡ Fun fact **I hate javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
