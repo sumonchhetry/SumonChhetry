@@ -1,33 +1,28 @@
-<h1 align="center">Hi 👋, I'm Sumon Chhetry</h1>
-<h3 align="center">A passionate and self taught code nerd from India</h3>
+### Hi there 👋, my name is Sumon
+#### I am a Web Developer from India
+I am a code nerd and love doodling with it as much as I can. Currently trying to go back to basics and focus on learning HTML, CSS, and Javascript and that's all. I am currently working in customer service while learning to code and getting my first developer job.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumonchhetry&label=Profile%20views&color=0e75b6&style=flat" alt="sumonchhetry" /> </p>
+Skills: HTML / CSS / JS
 
-<p align="left"> <a href="https://twitter.com/sumonchhetry" target="blank"><img src="https://img.shields.io/twitter/follow/sumonchhetry?logo=twitter&style=for-the-badge" alt="sumonchhetry" /></a> </p>
+- 🔭 I’m currently working on Building my own portfolio and adding projects 
+- 🌱 I’m currently learning Html, Css, Javascript 
+- 👯 I’m looking to collaborate on Open source projects 
+- 🤔 I’m looking for help with Javascript 
+- 💬 Ask me about Html, Css 
+- 📫 How to reach me: sumonchhetry1@gmail.com 
+- 😄 Pronouns: Sumon 
 
-- 🌱 I’m currently learning **Typescript**
 
-- 👯 I’m looking to collaborate on **data analysis, backend development, open source projects**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sumonchhetry)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sumon-chhetry/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SumonChhetry)  
 
-- 🤝 I’m looking for help with **Typescript**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumonchhetry)](https://github.com/anuraghazra/github-readme-stats)
 
-- 💬 Ask me about **Javascript, Python, Postgresql**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumonchhetry&show_icons=true)  
 
-- 📫 How to reach me **sumonchhetry1@gmail.com**
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sumonchhetry)  
 
-- ⚡ Fun fact **I am obsessed with Mr. Robot**
+![GitHub metrics](https://metrics.lecoq.io/sumonchhetry)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sumonchhetry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumonchhetry" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sumon-chhetry/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumon-chhetry/" height="30" width="40" /></a>
-</p>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sumonchhetry)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumonchhetry&show_icons=true&locale=en&layout=compact" alt="sumonchhetry" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumonchhetry&show_icons=true&locale=en" alt="sumonchhetry" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumonchhetry&" alt="sumonchhetry" /></p>
+![Profile views](https://gpvc.arturio.dev/sumonchhetry)  
