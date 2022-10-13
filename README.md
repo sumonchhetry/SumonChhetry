@@ -11,8 +11,8 @@ Skills: HTML / CSS / JS
 - 🤔 I’m looking for help with Javascript 
 - 💬 Ask me about Html, Css  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sumonchhetry)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrinfam0us)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sumonchhetry) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrinfam0us) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumonchhetry&show_icons=true)   
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrinfam0us&show_icons=true)   
