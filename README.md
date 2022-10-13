@@ -9,8 +9,7 @@ Skills: HTML / CSS / JS
 - 🌱 I’m currently learning Html, Css, Javascript 
 - 👯 I’m looking to collaborate on Open source projects 
 - 🤔 I’m looking for help with Javascript 
-- 💬 Ask me about Html, Css 
-- 📫 How to reach me: sumonchhetry1@gmail.com 
+- 💬 Ask me about Html, Css  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sumonchhetry)
 
