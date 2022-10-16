@@ -3,7 +3,7 @@
 #### I am a Web Developer from India
 I am a code nerd and love doodling with it as much as I can. Currently trying to go back to basics and focus on learning HTML, CSS, and Javascript and that's all. I am currently working in customer service while learning to code and getting my first developer job.
 
-Skills: HTML / CSS / JS
+Skills: HTML / CSS / JS / PYTHON
 
 - 🔭 I’m currently working on Building my own portfolio and adding projects 
 - 🌱 I’m currently learning Html, Css, Javascript 
