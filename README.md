@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Html, Css, Javascript, Python**
 
-- ⚡ Fun fact **I am obssessed with anime**
+- ⚡ Fun fact **I am obsessed with anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
