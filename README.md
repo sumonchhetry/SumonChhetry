@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sumonchhetry" target="blank"><img src="https://img.shields.io/twitter/follow/sumonchhetry?logo=twitter&style=for-the-badge" alt="sumonchhetry" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript, Typescript**
 
 - 💬 Ask me about **Html, Css, Javascript, Python**
 
