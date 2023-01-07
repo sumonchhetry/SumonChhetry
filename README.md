@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumonchhetry&" alt="sumonchhetry" /></p>
 
-[![Sumon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumonChhetry)](https://github.com/anuraghazra/github-readme-stats)
+
